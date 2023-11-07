@@ -18,3 +18,16 @@ console.log(theBestFaculty);
   - Nested nested element
 
 ### [_**Link on my Github**_](https://github.com/JestAK)
+
+# Execute instruction:
+
+Through a terminal open directory with needed .js file
+
+```
+cd [Your directory]    //For Example C:\Users\JestAK\WebstormProjects\DevSchool_HW5\HW1
+```
+
+Open .js file with node
+```
+node file_name.js
+```
